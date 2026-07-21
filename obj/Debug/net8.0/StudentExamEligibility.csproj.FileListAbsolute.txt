@@ -1,0 +1,15 @@
+/workspaces/School-marking-system-C-/bin/Debug/net8.0/StudentExamEligibility
+/workspaces/School-marking-system-C-/bin/Debug/net8.0/StudentExamEligibility.deps.json
+/workspaces/School-marking-system-C-/bin/Debug/net8.0/StudentExamEligibility.runtimeconfig.json
+/workspaces/School-marking-system-C-/bin/Debug/net8.0/StudentExamEligibility.dll
+/workspaces/School-marking-system-C-/bin/Debug/net8.0/StudentExamEligibility.pdb
+/workspaces/School-marking-system-C-/obj/Debug/net8.0/StudentExamEligibility.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/School-marking-system-C-/obj/Debug/net8.0/StudentExamEligibility.AssemblyInfoInputs.cache
+/workspaces/School-marking-system-C-/obj/Debug/net8.0/StudentExamEligibility.AssemblyInfo.cs
+/workspaces/School-marking-system-C-/obj/Debug/net8.0/StudentExamEligibility.csproj.CoreCompileInputs.cache
+/workspaces/School-marking-system-C-/obj/Debug/net8.0/StudentExamEligibility.sourcelink.json
+/workspaces/School-marking-system-C-/obj/Debug/net8.0/StudentExamEligibility.dll
+/workspaces/School-marking-system-C-/obj/Debug/net8.0/refint/StudentExamEligibility.dll
+/workspaces/School-marking-system-C-/obj/Debug/net8.0/StudentExamEligibility.pdb
+/workspaces/School-marking-system-C-/obj/Debug/net8.0/StudentExamEligibility.genruntimeconfig.cache
+/workspaces/School-marking-system-C-/obj/Debug/net8.0/ref/StudentExamEligibility.dll
